@@ -1,6 +1,6 @@
 # Can Employee Attrition be Predicted?
 
-## Website:   https://emily-keymon.github.io/Final-Project/
+## Website:   https://sboehm86.github.io/Employee-Attrition-Project/
 
 ### Tableau:  https://public.tableau.com/profile/antonuos.samor#!/vizhome/EMPLOYEE_ATTRITION_PREDICTOR/Story1
 
